@@ -63,6 +63,8 @@ End the module.
 
 
 ### RTL LOGIC  
+![image](https://user-images.githubusercontent.com/94165326/172900662-c8667cc7-52af-4d81-bae7-5cf4e9c11dd4.png)
+
 
 
 
@@ -72,6 +74,8 @@ End the module.
 
 
 ### TIMING DIGRAMS  
+![image](https://user-images.githubusercontent.com/94165326/172900701-6d07e747-8f1c-4690-ab9d-c276f89a585e.png)
+
 
 
 
